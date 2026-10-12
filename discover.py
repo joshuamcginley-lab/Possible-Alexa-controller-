@@ -25,7 +25,7 @@ PORT_HINTS = {
     6053: "ESPHome device",
     1883: "MQTT broker",
     8123: "Home Assistant (already running!)",
-    55443: "Yeelight bulb",
+    55443: "Amazon Echo (or Yeelight bulb)",
     38899: "WiZ bulb (UDP)",
     8080: "Generic web UI",
     80: "Web UI",
